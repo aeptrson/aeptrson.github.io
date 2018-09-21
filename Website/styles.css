@@ -1,0 +1,25 @@
+body {background: cornflowerblue;
+color: antiquewhite;
+font-size: 16pt; font-family: 'Amatic SC', cursive;
+}
+
+h1 {font-family: 'Permanent Marker', cursive;
+    font-size: 350%;
+font-weight: bold;
+color: midnightblue;
+margin: 0;}
+
+h3 {font-style: italic;
+    font-weight:bold;
+margin: 0;}
+
+ li { display: inline-block;
+    border: 2px solid antiquewhite;
+padding: 10px;
+background: antiquewhite;
+margin: 25px; }
+
+ a {
+    text-decoration: none; }
+
+ a:hover { color: darkgrey;}
